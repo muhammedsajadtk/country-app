@@ -64,6 +64,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ### Hosted link
-### `https://cute-bavarois-7c3a29.netlify.app/`
+https://cute-bavarois-7c3a29.netlify.app/
 
 
