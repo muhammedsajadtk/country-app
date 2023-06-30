@@ -48,10 +48,10 @@ Before running the application, ensure that you have the following:
 To set up and run the project locally, follow these steps:
 
 ### Clone the repository:
-### `git clone https://github.com/muhammedsajadtk/github-task.git`
+### `git clone https://github.com/muhammedsajadtk/country-app.git`
 
 ### Navigate to the project directory:
-### `cd github-task`
+### `cd country-app`
 
 ### Install the dependencies:
 ### `npm install`
@@ -64,6 +64,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ### Hosted link
-### `https://cool-cactus-c67040.netlify.app`
+### `https://cute-bavarois-7c3a29.netlify.app/`
 
 
