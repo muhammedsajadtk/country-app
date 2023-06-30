@@ -1,71 +1,69 @@
-# Getting Started with Create React App
+# Country App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The application consists of a Login page and a Home page. Upon clicking the Sign In button on the Login page, the user is redirected to the Home page. On the Home page, the countries are listed along with their flags and regions. 
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+1. Using functional components and hooks for building the application.
+2. Fetching and displaying Country details.
+3. Filtering Country by region.
+4. State management using Redux Toolkit.
+5. Routing system with 404 route handling.
+6. Responsive design for mobile and desktop devices.
 
+## Screenshots
+
+1. Login Page:
+
+![Screenshot 2023-06-30 at 10 40 52 PM](https://github.com/muhammedsajadtk/demo/assets/136842230/6685fdc3-129d-4cea-9b01-da67d46e0bda)
+
+![Screenshot 2023-06-30 at 10 42 13 PM](https://github.com/muhammedsajadtk/demo/assets/136842230/3b1006fd-3d95-4160-8b1a-7e23a645d7ef)
+
+
+2. Home Page:
+
+![Screenshot 2023-06-30 at 10 40 43 PM](https://github.com/muhammedsajadtk/demo/assets/136842230/b217925c-81e4-4315-9588-2ad5190a5aa0)
+
+![Screenshot 2023-06-30 at 10 42 24 PM](https://github.com/muhammedsajadtk/demo/assets/136842230/8863bf87-005c-4664-b578-a1095da1ae61)
+
+![Screenshot 2023-06-30 at 10 42 30 PM](https://github.com/muhammedsajadtk/demo/assets/136842230/81f16a7e-ba85-425d-bf26-0b9966caf275)
+
+
+3. 404 Error Page:
+   
+![Screenshot 2023-06-30 at 10 41 18 PM](https://github.com/muhammedsajadtk/demo/assets/136842230/74526266-6a33-438a-aced-9e49a6444262)
+
+
+
+
+## Prerequisites
+
+Before running the application, ensure that you have the following:
+
+1. Node.js installed on your machine.
+
+
+## Getting Started
+
+To set up and run the project locally, follow these steps:
+
+### Clone the repository:
+### `git clone https://github.com/muhammedsajadtk/github-task.git`
+
+### Navigate to the project directory:
+### `cd github-task`
+
+### Install the dependencies:
+### `npm install`
+
+### Start the development server:
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### Hosted link
+### `https://cool-cactus-c67040.netlify.app`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# country-app
